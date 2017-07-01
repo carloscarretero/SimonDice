@@ -27,6 +27,7 @@ que el jugador debe introducir correctamente en una secuencia para ganar depende
 - Nivel 2: 8 colores.
 - Nivel 3: 12 colores.
 - Nivel 4: 16 colores.
+
 En este modo de juego, el jugador tiene un tiempo maximo de pulsacion que no debe superar cada vez que
 tenga que pulsar cada color en la repeticion de la secuencia, si lo sobrepasa, acaba el juego cuando pulse el
 boton de algun color. Durante el transcurso del juego, en la ultima secuencia de cada nivel, se veran reducidos
@@ -48,6 +49,7 @@ le diga si debe introducir dicha secuencia en orden normal o inverso. Esta decis
 y se comunica al final de cada secuencia con:
 - Orden normal: Pitido agudo y iluminacion de los colores de la derecha (rojo y azul).
 - Orden inverso: Pitido grave y iluminacion de los colores de la derecha (verde y amarillo).
+
 El jugador no tiene un tiempo maximo para introducir cada color de una secuencia. El numero de colores por
 secuencia es el mismo. En este modo de juego tambien se producen las reducciones de tiempo al final de cada
 nivel.
